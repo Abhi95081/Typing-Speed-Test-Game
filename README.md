@@ -1,1 +1,1 @@
-# Typing-Speed-Test-Game in C++.
+# Typing-Speed-Test-Game in C++
